@@ -1,0 +1,11 @@
+{
+  "name": "clawd-run",
+  "version": "1.0.0",
+  "description": "Clawd Run: a Chrome-dino style runner game above the prompt while Claude works (/clawd-run).",
+  "author": { "name": "loyuhsiang" },
+  "license": "MIT",
+  "keywords": ["mod", "game"],
+  "userConfig": {
+    "auto": { "type": "boolean", "title": "Appear while Claude works", "description": "Show the game automatically when a turn starts (also /clawd-run on|off).", "default": true }
+  }
+}

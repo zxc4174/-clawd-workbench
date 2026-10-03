@@ -1,0 +1,12 @@
+{
+  "name": "clawd-run",
+  "owner": { "name": "loyuhsiang" },
+  "description": "Clawd Run on its own: install the plugin straight from this repository.",
+  "plugins": [
+    {
+      "name": "clawd-run",
+      "source": "./",
+      "description": "A Chrome-dino style runner game above the prompt while Claude works."
+    }
+  ]
+}

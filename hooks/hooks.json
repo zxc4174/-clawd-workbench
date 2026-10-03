@@ -1,0 +1,4 @@
+{
+  "description": "Clawd Run: a runner game above the prompt while Claude works",
+  "modules": ["./register.tsx"]
+}
