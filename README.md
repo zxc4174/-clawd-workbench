@@ -2,7 +2,13 @@
 
 A Claude Code **mod**: a Chrome-dino style runner above the prompt while Claude works.
 
+![Clawd Run above the Claude Code prompt: the orange pixel Clawd runs toward two cacti](docs/running.png)
+
 Clawd jumps in from the left, runs on a bumpy night-mode ground and hops over cacti; the score climbs with the speed and the best score is kept across sessions. Leave it alone for three seconds and Clawd sits down to type at a computer. The runner is an original pixel sprite in the spirit of Claude Code's Clawd mascot, drawn in Unicode sextant characters (**not an official asset**).
+
+| Idle: Clawd types | Game over |
+| --- | --- |
+| ![Clawd typing at a green computer](docs/typing.png) | ![Game over with x x eyes and the restart button](docs/game-over.png) |
 
 ## Requirements
 
